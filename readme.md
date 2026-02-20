@@ -56,7 +56,9 @@ The analysis demonstrates the use of SQL for real-world data analysis tasks incl
 ## 📁 Project Structure
 
 ├── query.sql # SQL queries
+
 ├── ecommerce_sales.csv # Dataset
+
 ├── README.md # Documentation
 
 
@@ -82,4 +84,5 @@ This project highlights how SQL can be effectively used to analyze business data
 
 ## ⭐ Notes
 - This project is part of a Data Analyst Internship Task  
+
 - Focus is on understanding data using SQL, not just writing queries  
